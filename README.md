@@ -1,4 +1,4 @@
-# Simple Tabs Project
+# Simple Restricted-Textarea Project
 
 A simple project that demonstrates tab switching using HTML, CSS, and JavaScript.
 
